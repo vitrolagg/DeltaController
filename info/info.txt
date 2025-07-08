@@ -1,0 +1,33 @@
+parametros de escrita
+
+p0.03: modo de operação                                 Endereço: 1006, 1007
+
+p0.04: (0-1) enable do motor                            Endereço: 1008, 1009
+
+p0.20: fonte do comando de posição (set 1)              Endereço: 1040, 1041
+
+p0.37: seleção do modo de controle (set 1)              Endereço: 1074, 1075
+
+p4.12: comando do valor absoluto de pulso desejado      Endereço: 1824, 1825
+
+p4.40: velocidade máxima positiva (Rotação)             Endereço: 1880, 1881
+
+p4.41: velocidade máxima negativa (Rotação)             Endereço: 1882 ,1883
+
+p5.10: modo de homing                                   Endereço: 2020, 2021
+
+p5.11 (0-1) homing automático ao ligar                  Endereço: 2022, 2023
+
+p5.15 (0-1) setar o homing                             Endereço: 2028, 2029
+
+p5.20, Start PTP                                        Endereço:2040, 2041
+
+ptp0.01 posição do segmento 0                           Endereço:3202, 3203
+
+parametros de leitura
+
+R0.11 temperatura do driver
+Endereço: 4026
+
+R0.13 feedback do encoder
+Endereço: 4030
